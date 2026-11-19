@@ -1,0 +1,17 @@
+# Dataset
+hands_datasets/
+
+# Training outputs
+runs/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Python environments
+env/
+new_env/
+venv/
+.venv/
+__pycache__/
